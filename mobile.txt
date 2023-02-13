@@ -1,0 +1,3 @@
+name : samsung m31
+version : 12.0
+ram : 4 gb
